@@ -2,16 +2,10 @@
 
 The "Catch Only Red Apple 🍎" game is a simple and entertaining game written in Python. The game aims to catch falling red apples using a basket controlled by the player. The game provides a graphical interface where the player can move the basket horizontally to catch the falling red apples while avoiding green ones 🍏.
 
-### Features ✨
-
-- **Graphical Interface 🎨:** Enjoy a visually appealing game with falling apples and a movable basket.
-- **Interactive Gameplay 🕹️:** Use keyboard controls to move the basket and catch the apples.
-- **Challenge 💪:** Test your reflexes by catching only the red apples and avoiding the green ones.
-
 ### Demo 🎥
 Watch the demo video below to see the game in action!
 
-https://github.com/Samah022/catch-only-red-apple-game/assets/97039075/700b9b5b-bb31-4855-8894-d2c8984c598c
+https://github.com/SalwaSh/CS111-Catch-Only-Red-Apple-Game/assets/97047182/d810f58b-3b0b-40d4-a4a2-682f6cd0a15c
 
 
 ### How to Play 🎮
@@ -26,8 +20,12 @@ https://github.com/Samah022/catch-only-red-apple-game/assets/97039075/700b9b5b-b
 To run the game, make sure you have Python installed on your system. Clone this repository and execute the game script:
 
 ```bash
-git clone https://github.com/yourusername/catch-only-red-apple.git
-cd catch-only-red-apple/game
+git clone https://github.com/sana-shamma/CS111-Catch-Only-Red-Apple-Game.git
+```
+```bash
+cd CS111-Catch-Only-Red-Apple-Game/game
+```
+```bash
 python Game.py
 ```
 
